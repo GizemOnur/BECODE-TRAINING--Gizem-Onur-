@@ -4,7 +4,7 @@
 
 ### Avec mes mots:
 
-MarkDown permet de gérer différentes mises en forme de texte afin de les styliser 🙊
+MarkDown permet de gérer différentes mises en forme de texte afin de les styliser
 
 ### Ce qu'en dit Wikipédia:
 
